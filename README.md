@@ -5,10 +5,10 @@ A modern, stylish calculator built using **HTML, CSS, and JavaScript** with a cl
 ## 📸 Preview  
 
 ### Calculator UI  
-![Calculator Screenshot](images/1.png)  
+<img src="images/1.png" alt="Calculator Screenshot" width="400" height="400"/>
 
 ### Performing Calculation  
-![Calculation Example](images/2.png)  
+<img src="images/2.png" alt="Calculator Screenshot" width="300" height="400"/>
 
 ---
 
